@@ -7,8 +7,7 @@
 #  city_id    :integer
 #  created_at :datetime         not null
 #  updated_at :datetime         not null
-#  cite_index :integer
-#
+
 
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
